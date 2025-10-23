@@ -37,4 +37,4 @@ Full ZIP hosted on Archive.org:
 ---
 
 ## License
-MIT License (or choose your preferred license)
+MIT License — see `LICENSE` file for full text.
