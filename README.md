@@ -16,7 +16,7 @@
 1. Format a USB drive to **FAT32**.
 2. Unzip the archive and **extract all files to the root** (do NOT put them in a folder).
 3. Insert the USB into your Xbox 360 and go to the sign in screen, the jailbreak (ABadAvatar) should begin and show a notification.
-4. If something fails, retry from step 2, if something continues to fail contact me and "2027-noah.lebel@warwickschools.org"  or at 401-391-4232.
+4. If something fails, retry from step 2, if something continues to fail contact me at 401-391-4232 and ill try to answer me as quick as possible but most likely not immediatlly.
 
 ---
 
